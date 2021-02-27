@@ -25,7 +25,7 @@ public class OpenBrowser {
 
         WebDriver driver = new FirefoxDriver();
 
-        driver.get("https://www.facebook.com");
+        driver.get("https://www.instagram.com");
 
     }
 }
